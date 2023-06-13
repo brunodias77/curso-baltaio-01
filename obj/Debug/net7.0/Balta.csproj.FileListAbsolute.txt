@@ -1,0 +1,15 @@
+/Users/brunodias/Projects/Balta/Balta/bin/Debug/net7.0/Balta
+/Users/brunodias/Projects/Balta/Balta/bin/Debug/net7.0/Balta.deps.json
+/Users/brunodias/Projects/Balta/Balta/bin/Debug/net7.0/Balta.runtimeconfig.json
+/Users/brunodias/Projects/Balta/Balta/bin/Debug/net7.0/Balta.dll
+/Users/brunodias/Projects/Balta/Balta/bin/Debug/net7.0/Balta.pdb
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.csproj.AssemblyReference.cache
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.AssemblyInfoInputs.cache
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.AssemblyInfo.cs
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.csproj.CoreCompileInputs.cache
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.dll
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/refint/Balta.dll
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.pdb
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/Balta.genruntimeconfig.cache
+/Users/brunodias/Projects/Balta/Balta/obj/Debug/net7.0/ref/Balta.dll
